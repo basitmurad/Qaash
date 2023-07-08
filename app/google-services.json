@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522430979234",
+    "project_id": "qaash-be91c",
+    "storage_bucket": "qaash-be91c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522430979234:android:42c6bc381a4ddbe3fc0bfb",
+        "android_client_info": {
+          "package_name": "com.example.qaash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6sZ5YW1pp4B2y4MdAtRrgfM7bg8oczl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
